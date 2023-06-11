@@ -1,2 +1,2 @@
 #!/bin/bash
-id -Gun
+id -nG
