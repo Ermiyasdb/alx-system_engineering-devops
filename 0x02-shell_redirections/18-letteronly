@@ -1,0 +1,2 @@
+#!/bin/bash
+grep nobody /etc/ssh/sshd_config
