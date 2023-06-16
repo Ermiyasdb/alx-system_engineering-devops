@@ -1,2 +1,2 @@
 #!/bin/bash
-//prints local,env and func 
+echo local,env and func 
