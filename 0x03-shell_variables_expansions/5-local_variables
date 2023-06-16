@@ -1,2 +1,2 @@
 #!/bin/bash
-echo local,env and func 
+set
